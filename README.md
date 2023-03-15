@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-## Gambaran "Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition"
+## Gambaran "Presensi Mahasiswa Rafi"
 
 Projek Presensi Berbasis Face Recognition menggunakan Python dan Flask merupakan sebuah sistem yang dapat digunakan untuk mengenali wajah seseorang dan mencatat presensi. Proyek ini menggunakan bahasa pemrograman Python dan framework Flask untuk membuat aplikasi web yang akan digunakan sebagai antarmuka pengguna.
 
